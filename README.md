@@ -16,6 +16,7 @@ In ~/data/testing/ we uploaded twenty patterns simulated at different signal str
 5. ~/data/testing/metadata.h5 reports PDB IDs and orientation of the structure used during the diffraction intensities simulations
 
 To avoid surpassing the Git LFS data quota, weights can be found at this external link: https://bit.ly/3qy3Q6Y
+
 Files are organized in directories according to the training and testing conditions, reporting the intensity factor and the mask size.
 For any problem please contact alfredo.bellisario@icm.uu.se
 
