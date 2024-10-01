@@ -5,6 +5,8 @@ Our work examined deep learning as a tool to denoise and demask diffraction patt
 
 ### Data & Network weights
 
+01/10/2024: The entire dataset is now deposited in the **Coherent X-ray Imaging Data Bank** (CXIDB) at https://cxidb.org/id-232.html
+
 The complete list of PDB IDs used for simulations can be found in ~/data/dataset_training.csv and  ~/data/dataset_test.csv.
 
 In ~/data/testing/ we uploaded twenty patterns simulated at different signal strengths and mask size, as described in the paper. In particular:
