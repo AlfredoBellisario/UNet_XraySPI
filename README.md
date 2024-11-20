@@ -26,3 +26,5 @@ For any problem please contact alfredo.bellisario@icm.uu.se
 #### Python packages recommendations:
 
 We suggest to use Tensorflow 2.0.0
+
+Python package used in the paper for orientation retrieval: https://github.com/ekeberg/PyEMC
